@@ -1,21 +1,21 @@
 # DataStructure
 
 
-  # Queue
+      # Queue
 
-  1. queue.c
+      1. queue.c
 
-  2. fibonacci_sequence.c
+      2. fibonacci_sequence.c
 
 
-  # Stack
+      # Stack
 
-  1. stack.c
+      1. stack.c
 
-  2. calculation_verifier.c
+      2. calculation_verifier.c
 
-  3. calculator.c
+      3. calculator.c
 
-  4. hanoi_tower_no_recursion.c
+      4. hanoi_tower_no_recursion.c
 
-  5. hanoi_tower_recursion.c
+      5. hanoi_tower_recursion.c
