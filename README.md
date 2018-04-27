@@ -14,6 +14,6 @@ calculation_verifier.c
 
 calculator.c
 
-hanoi_tower_no_recursion.c
-
 hanoi_tower_recursion.c
+
+hanoi_tower_no_recursion.c
